@@ -1,0 +1,23 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "axe/language": [
+      "default",
+      {
+        "html-has-lang": "off"
+      }
+    ],
+    "meta-viewport": "off",
+    "detect-css-reflows/composite": "off",
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "-webTkit-transform"
+        ]
+      }
+    ]
+  }
+}

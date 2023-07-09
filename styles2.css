@@ -1,0 +1,42 @@
+
+/**
+ * The text could use some tweaks.
+ */
+
+
+ .md {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  color:rgb(255, 255, 255)
+}
+
+.md h1, .md h2, .md h3, .md h4, .md h5, .md h6 {
+  display: inline-block;
+  color: #e53f3f;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+}
+
+.md li {
+  display:list-item;
+  margin: 1px 0;
+  color: rgb(255, 255, 255);
+}
+
+.md h1, .md h2, .md h3, .md h4, .md h5, .md h6, .md ul, .md p {
+  margin: 1px;
+  align-content: space-between;
+  
+  
+
+
+
+}
+/**
+ * That's better.
+ *
+ * If you want to contact me, find that information in the next section.
+ *
+ *
+ * Along with with projects I've worked on.
+ */
+

@@ -1,0 +1,53 @@
+/**
+ * We're almost done.
+ */
+
+pre:hover {
+  box-shadow: 0px 0px 40px 5px rgba(255, 255, 255, 0.8);
+
+
+}
+
+#skip-animation,
+#pause-resume {
+  display: none;
+}
+
+/**
+* I hope you enjoyed this.
+
+*/
+
+/**
+* By the way, you can edit this box. Try adding new CSS!
+*
+* For example,
+*
+* The property 'text-shadow' takes the parameters:
+* 'x', 'y', 'blur', 'color'.
+*
+* The property 'transform' takes the parameters:
+* 'translateX', 'translateY', 'rotate', 'scaleX', 'scaleY'.
+*
+* try it on classes 'pre:hover' and 'value'.
+* remmove the background-color property or change it.
+* 
+*/
+
+.value {
+  text-shadow: 0px 15px 1px rgb(196, 196, 196);
+}
+ 
+pre:hover {
+  box-shadow: 0px 0px 40px 5px rgba(255, 255, 255, 0.8);
+  background-color: black;
+
+}
+
+
+
+/**
+* Try it out! There's lots you can do.
+* Try playing with text sizes, shadows, animations, or just
+* break the page. I won't hold it against you.
+*/

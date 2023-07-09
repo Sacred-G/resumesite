@@ -1,0 +1,44 @@
+# Steven Bouldin #
+### Technical/Customer Support Engineer 
+### Full-Stack / NodeJS
+### **Skills** 
+###**Web Development**
+       HTML, CSS, JavaScript, React, Vue, And more
+###**File Sharing and Transfer**
+       FTP, SFIP, STSP, SSH, AS2, AS4
+###**Web Services Protocols**
+       SOAP, REST, JSON, XML-RPC
+###**Cloud Platforms** 
+       AWS, AZURE, and GCP
+####**WorkFlow Automation** 
+      Power Automate, IFTT, and Zappier
+####**Productivity and Collaboration** 
+      Office 365, G-Suite, Trello, Asana, Slack
+####**Authentication Troubleshooting** 
+      SSO, LDAP, and OKTA
+####**Data Collection and Visualation** 
+      Prometheus and Grafana
+####**Application Programmable Interface** 
+      Intergration, Data Access, Functionality Ext, Service Provision, and Automation
+####**Customer Relationalship Management** 
+      Salesforce, Dynamics 365, and Copper
+####**Ticketing Systems**
+      Jira, ServiceNow, RT, and Zoho
+####**Network Virtualization and SDN**
+      VMware NSX and VMware ESXi
+# **Education**
+ * Advanced High School Diploma, Crossville High School #####
+ * Applied Computer Information Systems, Auburn University ####
+# **Certifications**
+ * Google IT Support Professional
+ * Google Data Analyst Professional
+ * CompTIA A+
+ * SECURITI Privacy Law Compliance & PrivacyOps
+ * SECURITI Incident and Data Breach Management
+ * FreeCodeCamp Responsive WebDesign
+ * FreecodeCamp- Javascript Structure and Algorithims
+ * Google Advanced Anaylitics
+
+
+
+
