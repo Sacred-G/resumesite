@@ -1,13 +1,14 @@
 /**
  *
- * Welcome to my website! * * * My name's Steven Bouldin * * *
- * 
- * I am Customer support engineer, specializing in providing advanced technical assistance to resolve complex issues.
+ * Welcome to my website! As an HR Process Engineer, I specialize in streamlining HR operations to reduce costs, 
+ * improve efficiency, and enhance the overall employee experience. By applying process improvement methodologies 
+ * such as Lean, Six Sigma, and Agile, I optimize HR functions such as recruitment, onboarding, performance management,
+ * and employee relations. I also provide consulting services to help organizations optimize their business  processes.
  * 
  * As a hobby, I enjoy full stack web development, and have experience in various programming languages.
  *
  * The main purpose of this website is to showcase my skills and experiences in a fun and interactive way.
- *
+ * While demonstrating how HTML, Markdown, and CSS work together, I hope you enjoy the experience.
  *
  *
  * What's a better way to get to know me than to see my work?
@@ -17,8 +18,10 @@
  *
  *
  *
- *
- Let's begin. We start by animating... well, everything.
+ * You can skip everything by clicking skip animation in the bottom left corner.
+ * 
+ * 
+ * Let's begin. We start by animating... well, everything.
 */
 
 * {
@@ -56,7 +59,7 @@ pre, a {
 
 pre:not(:empty) {
  overflow: auto;
- background: rgb(48, 48, 48);
+ background: rgb(31, 31, 31);
  border: 1px solid #ccc;
  max-height: 45vh;
  width: 49%;
@@ -107,8 +110,8 @@ body {
 }
 
 /**
-* So, where is my resume? That's why you're here, right?
-* I can't imagine you'd come just to see the pretty colors.
+* What is Markdown? Its a light-weight markup language. It's easy to read and write,
+* and can be converted to HTML. It's a great way to write content for the web.
 */
 
 pre:not(#style-text) {

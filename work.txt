@@ -14,8 +14,8 @@
       Power Automate, IFTT, and Zappier
 ####**Productivity and Collaboration** 
       Office 365, G-Suite, Trello, Asana, Slack
-####**Authentication Troubleshooting** 
-      SSO, LDAP, and OKTA
+####**Database Management** 
+      Postgresql, Mysql, MongoDB, and MariaDB
 ####**Data Collection and Visualation** 
       Prometheus and Grafana
 ####**Application Programmable Interface** 
@@ -24,12 +24,14 @@
       Salesforce, Dynamics 365, and Copper
 ####**Ticketing Systems**
       Jira, ServiceNow, RT, and Zoho
-####**Network Virtualization and SDN**
-      VMware NSX and VMware ESXi
+####**Network Virtualization and Server Management**
+      VMware NSX ESXi and WebMin and VirtualMin
 # **Education**
  * Advanced High School Diploma, Crossville High School #####
  * Applied Computer Information Systems, Auburn University ####
+ * MicroMasters in Project Management, Rochester Institute of Technology ####
 # **Certifications**
+ * Harvards CS50x: Introduction to Computer Science
  * Google IT Support Professional
  * Google Data Analyst Professional
  * CompTIA A+

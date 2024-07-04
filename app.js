@@ -18,10 +18,6 @@ let style, styleEl, workEl, pgpEl, skipAnimationEl, pauseEl;
 let animationSkipped = false, done = false, paused = false;
 let browserPrefix;
 var iframe = document.createElement('iframe');
-iframe.src = 'https://projects.stevenbouldin.com';
-iframe.width = '500'; 
-iframe.height = '300'; 
-iframe.frameborder = '0'; 
 
 
 
